@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 I am currently working with Salesforce CRM.<br>I am also expanding my skills in Salesforce and exploring other areas of Computer Science, such as IoT and Linux.<br>Feel free to challenge me with any computer-related problem! 😉<br>On a lighter note, I consider myself a total computer nerd.
 
 
